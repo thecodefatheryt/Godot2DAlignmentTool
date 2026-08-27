@@ -29,11 +29,11 @@ Select your misplaced elements and click the horizontal arrow button (**↔**) t
 
 ### 3. Precision Node Calculations
 No matter the texture size or bounding box offsets, the custom calculation algorithm tracks down the real center points under the hood.
-![Node Precision](screenshots/ajqqTV.png)
+![Node Precision](screenshots/screen3.png)
 
 ### 4. Perfect Results Flawlessly Integrated
 Keep your skill trees, HUD indicators, inventory grids, or level sprites flawlessly aligned in seconds!
-![Perfect Alignment Result](screenshots/TqancA.png)
+![Perfect Alignment Result](screenshots/screen4.png)
 
 ---
 
